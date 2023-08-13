@@ -14,9 +14,6 @@ class NetworkingManager: ObservableObject {
     
     private init() {}
     
-    //instead of using @escaping closure like before for returning data, we can do the same thing with async/await by typing
-    //it on the function return
-    
     func request<T: Codable>(_ endpoint: EndPoint,
                              type: T.Type) async throws -> T {
         
