@@ -41,7 +41,6 @@
 
 /* Begin PBXFileReference section */
 		430D10A12967215700727689 /* EndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPoint.swift; sourceTree = "<group>"; };
-		430D10A52967418200727689 /* path.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = path.md; sourceTree = "<group>"; };
 		431DA09C294471D3002F77C3 /* PersonItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonItemView.swift; sourceTree = "<group>"; };
 		431DA09F294472EB002F77C3 /* PillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PillView.swift; sourceTree = "<group>"; };
 		4325D3E52965EEAA003C3BCB /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
@@ -197,7 +196,6 @@
 		43F827CC293D748900975D2B = {
 			isa = PBXGroup;
 			children = (
-				430D10A52967418200727689 /* path.md */,
 				43F827E6293D752400975D2B /* Feature */,
 				43F827E7293D753000975D2B /* Base */,
 				43F827E8293D753400975D2B /* Resources */,
